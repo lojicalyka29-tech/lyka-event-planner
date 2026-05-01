@@ -91,7 +91,8 @@ function App() {
         <section className="card">
           <header className="header">
             <img src={logo} alt="Lyka Lojica Events and Co." className="brand-logo" />
-            <h1>Lyka Lojica Events &amp; Co.</h1>
+            <h1>LYKA • JOHANNA • DOMA
+            Events & Co.</h1>
             <p className="subtle">Choose items, add them to cart, and submit in a clear 6-step flow.</p>
           </header>
 
